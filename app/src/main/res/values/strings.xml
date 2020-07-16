@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ADD</string>
+
+    <string name="add">Add</string>
+    <string name="first_digit">First Digit</string>
+    <string name="second_digit">Second Digit</string>
+</resources>
